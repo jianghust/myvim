@@ -219,6 +219,7 @@ set cscopequickfix=s-,c-,d-,i-,t-,e-
 
 "***************Bundle start******************
 set nocompatible    " be iMproved
+filetype off
 set rtp+=~/.vim/bundle/vundle/
 call vundle#rc()
 
