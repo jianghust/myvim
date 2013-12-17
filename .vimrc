@@ -231,4 +231,5 @@ Bundle 'gmarik/vundle'
 Bundle 'vim-plugin-foo'
 Bundle 'vim-plugin-bar'
 filetype plugin indent on    " required!
+
 "***************Bundle end******************
